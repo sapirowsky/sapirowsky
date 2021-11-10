@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sapirowsky
-- 👀 I’m interested in php, js, nginx, python, ruby on rails, go, cpp
+- 👀 I’m interested in php, js, nginx, python, go, cpp
 - 🌱 I’m currently learning js and mastering php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sapirowski@gmail.com
