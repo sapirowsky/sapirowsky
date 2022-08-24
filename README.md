@@ -2,10 +2,10 @@
 
 ## I'm a Student
 
-- 👀 I’m interested in web dev and ethical hacking
-- 🌱 I’m currently mastering JS, CSS and learning everything that seems great
+- 👀 I’m interested in web dev
+- 🌱 I’m currently mastering Vue ecosystem mostly with Nuxt, pinia...
 - 💞️ I’m looking to collaborate with other creators
-- 🥅 2022 goals: make portfolio
+- 🥅 2022 goals: make [portfolio](https://portfolio-sapirowsky.vercel.app/)
 - 🌐 Primary language: Polish 🇵🇱
 -
 - 📫 How to reach me kamilkruszano@gmail.com
