@@ -3,9 +3,9 @@
 ## I'm a Student
 
 - 👀 I’m interested in web dev
-- 🌱 I’m currently mastering Vue ecosystem mostly with Nuxt, pinia...
+- 🌱 I’m currently mastering Vue ecosystem mostly Nuxt, pinia...
 - 💞️ I’m looking to collaborate with other creators
-- 🥅 2022 goals: make [portfolio](https://portfolio-sapirowsky.vercel.app/)
+- 🥅 2022 goals: make [portfolio](https://kamilkruszona.dev/)
 - 🌐 Primary language: Polish 🇵🇱
 -
 - 📫 How to reach me kamilkruszano@gmail.com
