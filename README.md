@@ -1,6 +1,6 @@
 ### Hi there, I'm Kamil - aka [@sapirowsky] 👋
 
-[portfolio](https://kamilkruszona.dev/)
+[Portfolio](https://kamilkruszona.dev/)
 
 ## I'm a Student
 
