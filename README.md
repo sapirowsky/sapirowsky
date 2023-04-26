@@ -1,11 +1,13 @@
 ### Hi there, I'm Kamil - aka [@sapirowsky] 👋
 
+[portfolio](https://kamilkruszona.dev/)
+
 ## I'm a Student
 
 - 👀 I’m interested in web dev
-- 🌱 I’m currently mastering Vue ecosystem mostly Nuxt, pinia...
+- 🌱 I’m currently mastering Nuxt and its ecosystem...
 - 💞️ I’m looking to collaborate with other creators
-- 🥅 2023 goals: make [portfolio](https://kamilkruszona.dev/)
+- 🥅 2023 goals: get a job, get in depth with 3d web dev as well as api security
 - 🌐 Primary language: Polish 🇵🇱
 -
 - 📫 How to reach me kamilkruszano@gmail.com
