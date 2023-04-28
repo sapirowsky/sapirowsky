@@ -7,7 +7,7 @@
 - 👀 I’m interested in web dev
 - 🌱 I’m currently mastering Nuxt and its ecosystem...
 - 💞️ I’m looking to collaborate with other creators
-- 🥅 2023 goals: get a job, get in depth with 3d web dev as well as api security
+- 🥅 2023 goals: get in depth with security (mainly to secure api)
 - 🌐 Primary language: Polish 🇵🇱
 -
 - 📫 How to reach me kamilkruszano@gmail.com
