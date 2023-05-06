@@ -1,4 +1,4 @@
-### Hi there, I'm Kamil - aka [@sapirowsky] 👋
+### Hi there, I'm Kamil 👋
 
 [Portfolio](https://kamilkruszona.dev/)
 
@@ -11,6 +11,8 @@
 - 🌐 Primary language: Polish 🇵🇱
 -
 - 📫 How to reach me kamilkruszano@gmail.com
+
+![sapirowsky stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
