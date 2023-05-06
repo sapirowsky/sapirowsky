@@ -1,6 +1,7 @@
-### Hi there, I'm Kamil 👋
+# Hi there, I'm Kamil 👋
+### [Portfolio](https://kamilkruszona.dev/)
 
-[Portfolio](https://kamilkruszona.dev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapirowsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm a Student
 
@@ -12,12 +13,4 @@
 -
 - 📫 How to reach me kamilkruszano@gmail.com
 
-![sapirowsky stats](https://github-readme-stats.vercel.app/api?username=sapirowsky&show_icons=true&theme=radical)
 
-
-
-[website]: https://localhost
-<!---
-sapirowsky/sapirowsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
