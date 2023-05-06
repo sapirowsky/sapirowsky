@@ -12,7 +12,7 @@
 -
 - 📫 How to reach me kamilkruszano@gmail.com
 
-![sapirowsky stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![sapirowsky stats](https://github-readme-stats.vercel.app/api?username=sapirowsky&show_icons=true&theme=radical)
 
 
 
