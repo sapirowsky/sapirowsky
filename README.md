@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapirowsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## I'm a Student
+## 
 
 - 👀 I’m interested in web dev
 - 🌱 I’m currently mastering Nuxt and its ecosystem...
