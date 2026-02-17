@@ -24,13 +24,15 @@
 ![Sanctum](https://img.shields.io/badge/Auth-Sanctum%20%7C%20Fortify-F9322C?style=for-the-badge)
 ![Octane](https://img.shields.io/badge/Laravel-Octane-18181B?style=for-the-badge)
 
+![Convex](https://img.shields.io/badge/Convex-Backend%20Platform-EE342F?style=for-the-badge)
+
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TanStack](https://img.shields.io/badge/TanStack-Start%20%7C%20Router%20%7C%20Query-FF4154?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Zustand](https://img.shields.io/badge/State-Zustand-4B5563?style=for-the-badge)
-![Convex](https://img.shields.io/badge/Convex-Backend%20Platform-EE342F?style=for-the-badge)
 
 ### Data, Search, Infra
 ![MariaDB](https://img.shields.io/badge/MariaDB-11-003545?style=for-the-badge&logo=mariadb&logoColor=white)
