@@ -46,13 +46,6 @@
 ![Vitest](https://img.shields.io/badge/Tests-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/API-OpenAPI%20Client%20Generation-6BA539?style=for-the-badge)
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sapirowsky&show_icons=true&hide_border=true&theme=cobalt&commits_year=2026" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapirowsky&layout=compact&hide_border=true&theme=cobalt" />
-</p>
-
 ## 2026 Focus
 
 - API security and multi-tenant backend patterns
