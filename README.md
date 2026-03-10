@@ -49,8 +49,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sapirowsky&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapirowsky&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sapirowsky&show_icons=true&hide_border=true&theme=cobalt&commits_year=2026" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapirowsky&layout=compact&hide_border=true&theme=cobalt" />
 </p>
 
 ## 2026 Focus
