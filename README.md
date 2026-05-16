@@ -33,60 +33,21 @@ I build production systems with **Laravel** and **React** — with a strong bias
 
 <div align="center">
 
-<table align="center">
-<tr>
-<td valign="middle">
-<div align="center">
+**`backend`**
 
-#### `backend`
+<img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/convex/EE342F" height="40" alt="Convex" />
 
-<img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/convex/EE342F" height="40" alt="Convex" />
+<br>
 
-</div>
-</td>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td valign="middle">
-<div align="center">
+**`frontend`**
 
-#### `frontend`
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tanstack/FF4154" height="40" alt="TanStack" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tanstack/FF4154" height="40" alt="TanStack" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
+<br>
 
-</div>
-</td>
-</tr>
-<tr>
-<td valign="middle" colspan="3">
-<div align="center">
+**`data · search · infra`**
 
-#### `data · search · infra`
-
-<img src="https://cdn.simpleicons.org/mariadb/003545" height="40" alt="MariaDB" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/meilisearch/FF5CAA" height="40" alt="Meilisearch" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/podman/892CA0" height="40" alt="Podman" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/opentelemetry/425CC7" height="40" alt="OpenTelemetry" />
-
-</div>
-</td>
-</tr>
-</table>
+<img src="https://cdn.simpleicons.org/mariadb/003545" height="40" alt="MariaDB" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/meilisearch/FF5CAA" height="40" alt="Meilisearch" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/podman/892CA0" height="40" alt="Podman" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opentelemetry/425CC7" height="40" alt="OpenTelemetry" />
 
 </div>
 
